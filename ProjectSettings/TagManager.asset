@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - h1
+  - gotAttackShot
+  - enemyAttack
+  - activatesummery
+  - enemy
+  - extra
+  - h2s
+  - k1s
+  - k2s
+  - jh1s
+  - jh2s
+  - jk1s
+  - jk2s
+  - uh1s
+  - uh2s
+  - uk1s
+  - uk2s
+  - crrepwaight
+  - jumpobj
+  - ground
+  - Enemy
+  - helthbottle
+  - land
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - player
+  - Water
+  - UI
+  - enemy
+  - clamps
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

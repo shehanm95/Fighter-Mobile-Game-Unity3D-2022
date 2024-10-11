@@ -1,0 +1,310 @@
+fileFormatVersion: 2
+guid: 7784543b91a938e43b3b770f47f960b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2590742086190518755
+    second: trains-31_0
+  - first:
+      213: 1969983246105035778
+    second: trains-31_1
+  - first:
+      213: 5113962995095614017
+    second: trains-31_2
+  - first:
+      213: -7729014984952200546
+    second: trains-31_3
+  - first:
+      213: -8837879555620309439
+    second: trains-31_4
+  - first:
+      213: 289600968780949937
+    second: trains-31_5
+  - first:
+      213: 7991758192380269880
+    second: trains-31_6
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: trains-31_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 41
+        width: 214
+        height: 267
+      alignment: 9
+      pivot: {x: 0.47357583, y: 0.9616997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e15a08733a24f320800000000000000
+      internalID: 2590742086190518755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trains-31_1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 41
+        width: 188
+        height: 266
+      alignment: 9
+      pivot: {x: 0.54210985, y: 0.9676872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204cf8d2359c65b10800000000000000
+      internalID: 1969983246105035778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trains-31_2
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 39
+        width: 210
+        height: 267
+      alignment: 9
+      pivot: {x: 0.48384342, y: 0.97017115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142ba25cf3278f640800000000000000
+      internalID: 5113962995095614017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trains-31_3
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 41
+        width: 219
+        height: 265
+      alignment: 9
+      pivot: {x: 0.46901503, y: 0.9737198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92c04e32d50db490800000000000000
+      internalID: -7729014984952200546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trains-31_4
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 40
+        width: 209
+        height: 266
+      alignment: 9
+      pivot: {x: 0.5054114, y: 0.97193885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14670978e5b895580800000000000000
+      internalID: -8837879555620309439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trains-31_5
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 41
+        width: 188
+        height: 265
+      alignment: 9
+      pivot: {x: 0.5661725, y: 0.969452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b92cc6fb8ed40400800000000000000
+      internalID: 289600968780949937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trains-31_6
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 40
+        width: 215
+        height: 266
+      alignment: 9
+      pivot: {x: 0.51052076, y: 0.97619057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835d4abdbbd68ee60800000000000000
+      internalID: 7991758192380269880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      trains-31_6: 7991758192380269880
+      trains-31_0: 2590742086190518755
+      trains-31_3: -7729014984952200546
+      trains-31_2: 5113962995095614017
+      trains-31_5: 289600968780949937
+      trains-31_4: -8837879555620309439
+      trains-31_1: 1969983246105035778
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

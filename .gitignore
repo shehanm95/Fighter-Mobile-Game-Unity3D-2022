@@ -1,0 +1,65 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# MemoryCaptures
+MemoryCaptures/
+
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+#!/[Aa]ssets/**/*.meta
+
+# Uncomment if you have custom assembly definitions and want to ignore generated files
+# *.asmdef.meta
+
+# Visual Studio / MonoDevelop generated files
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+
+# Unity3D generated file on crash reports
+sysinfo.txt
+
+# Builds
+*.apk
+*.aab
+*.app
+*.xcodeproj
+*.xcworkspace
+*.xcuserdata
+*.ipproj
+
+# Crash logs and local settings
+CrashReports/
+*.crash
+*.stacktrace
+*.stacktrace.meta
+
+# Exclude additional build output
+*.ipa
+
+# Unity auto-generated file on builds
+*.log
+*.log.meta
+
+# Other generated files
+.DS_Store
+*.swp
